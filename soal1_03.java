@@ -5,7 +5,7 @@ public class soal1_03 {
         final int P = 3;
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Jenis kertas (1:A4, 2:F4, 3:A3): ");
+        System.out.print("Jenis kertas (1;A4, 2;F4, 3;A3): ");
         int kode = sc.nextInt();
 
         System.out.print("Cetak warna (true/false): ");
